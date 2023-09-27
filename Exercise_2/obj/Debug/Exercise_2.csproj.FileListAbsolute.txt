@@ -1,0 +1,11 @@
+C:\PRG282\Exercises\Exercise_2\bin\Debug\Exercise_2.exe.config
+C:\PRG282\Exercises\Exercise_2\bin\Debug\Exercise_2.exe
+C:\PRG282\Exercises\Exercise_2\bin\Debug\Exercise_2.pdb
+C:\PRG282\Exercises\Exercise_2\obj\Debug\Exercise_2.csproj.AssemblyReference.cache
+C:\PRG282\Exercises\Exercise_2\obj\Debug\Exercise_2.csproj.SuggestedBindingRedirects.cache
+C:\PRG282\Exercises\Exercise_2\obj\Debug\Exercise_2.Form1.resources
+C:\PRG282\Exercises\Exercise_2\obj\Debug\Exercise_2.Properties.Resources.resources
+C:\PRG282\Exercises\Exercise_2\obj\Debug\Exercise_2.csproj.GenerateResource.cache
+C:\PRG282\Exercises\Exercise_2\obj\Debug\Exercise_2.csproj.CoreCompileInputs.cache
+C:\PRG282\Exercises\Exercise_2\obj\Debug\Exercise_2.exe
+C:\PRG282\Exercises\Exercise_2\obj\Debug\Exercise_2.pdb
